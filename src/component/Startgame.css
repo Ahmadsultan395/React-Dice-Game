@@ -1,0 +1,21 @@
+.startgame-main{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+.sg-image-text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    margin-top: 5rem;
+    gap: 3rem;
+}
+.sg-text-div h1{
+    font-size: 7rem;
+}
+.sg-text-div{
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+}
